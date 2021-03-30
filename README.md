@@ -1,10 +1,5 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<p align="center">
-<a href="https://m.facebook.com/marco.dalprato90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mdalprato" height="20" width="20" /></a>&nbsp;
-<a href="http://www.linkedin.com/in/marcodalprato" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mdalprato" height="20" width="20" /></a>&nbsp;
-</p>
-
 ![](https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif)
 
 ### 🤵 About Me:
