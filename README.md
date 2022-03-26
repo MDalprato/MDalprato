@@ -6,7 +6,7 @@
 - 🏦 I'm currently working for a international company that develops software for videosurviallance and security systems (no, it's not the NSA)
 - 🤔 I use daily  ```.swift```, ```.javascript```,``` .c++```, ```.sql```, ```.react```, ```.nodeJs```
 - 🌱 I’m currently learning React, Redux and nodeJs.
-- 💬 Talk to me about Apple, Music (Techno/Dance) and Movies.
+- 💬 Talk to me about Apple, Music and Movies.
 - 😄 Pronouns: He/Him
 - 👯 We can connect on [Twitch.com](https://www.twitch.tv/mdalprato) if you want to view some of my streams.
 - ⚡ Fun fact: I'm 6.4 feet tall and I speak english fluently.
