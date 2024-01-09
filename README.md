@@ -50,6 +50,4 @@ Happiness level         ██████████████████�
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
-Last Edited on: 30/03/2021
-
-<a class="spreaker-player" href="https://www.spreaker.com/episode/51138947" data-resource="episode_id=51138947" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="false" data-hide-likes="false" data-hide-comments="false" data-hide-sharing="false" data-hide-download="true">Ascolta "Settembre è il mese degli iPhone" su Spreaker.</a>
+Last Edited on: 09/01/2023
