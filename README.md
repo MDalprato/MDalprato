@@ -49,6 +49,6 @@ Happiness level         ██████████████████�
 ### 😜 Something fun for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mDalprato/count.svg)
 
 Last Edited on: 09/01/2023
