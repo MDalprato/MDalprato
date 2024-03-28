@@ -29,15 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="35" height="35"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original-wordmark.svg" alt="swift" width="35" height="35"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbuket" width="35" height="35"/> 
-
-
-</p>
-
 ---
 ### 🐱My Github stats:
 ![mdalprato's github stats](https://github-readme-stats.vercel.app/api?username=mdalprato)
