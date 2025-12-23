@@ -4,7 +4,7 @@
 
 ### 🤵 About Me:
 - 🏦 I'm currently working for a international company that develops software for videosurviallance and security systems (no, it's not the NSA)
-- 🤔 I use daily  ```.swift```, ```.javascript```,``` .c++```, ```.sql```, ```.react```, ```.nodeJs```, ```.NestJS```, ```.MongoDB```
+- 🤔 I use daily  ```.javascript```,``` .c++```, ```.sql```, ```.react```, ```.nodeJs```, ```.NestJS```, ```.MongoDB```
 - 🌱 I’m currently learning React, Redux and nodeJs.
 - 💬 Talk to me about Apple, Music and Movies.
 - 😄 Pronouns: He/Him
