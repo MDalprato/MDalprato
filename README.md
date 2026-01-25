@@ -10,16 +10,8 @@
 </div>
 
 ---
+## More
 
-```
- __  __                      ____        _ ____            _
-|  \/  | __ _ _ __ ___ ___  |  _ \  __ _| |  _ \ _ __ __ _| |_ ___
-| |\/| |/ _` | '__/ __/ _ \ | | | |/ _` | | |_) | '__/ _` | __/ _ \
-| |  | | (_| | | | (_| (_) || |_| | (_| | |  __/| | | (_| | ||  __/
-|_|  |_|\__,_|_|  \___\___(_)____/ \__,_|_|_|   |_|  \__,_|\__\___|
-```
-
-## Lore
 - I build software for video surveillance and security platforms (no, not the NSA).
 - I like reliable systems, clean APIs, and pragmatic UX.
 - Side interests: Apple ecosystem, music, movies.
