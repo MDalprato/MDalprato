@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Marco Dal Prato</h1>
+  <h1>Marco Dalprato</h1>
   <p>Software Engineer · Surveillance & Security Systems</p>
   <p>Ship code, squash bugs, drink coffee</p>
   <p>
