@@ -63,13 +63,6 @@ stack: js ts c++ sql react node nest mongodb
 focus: reliability | clean-apis | pragmatic-ux
 ```
 
-## Stats HUD
-
-<p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mdalprato&show_icons=true&theme=dark#gh-dark-mode-only" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalprato&show_icons=true&theme=dark#gh-dark-mode-only" />
-</p>
-
 ## Loot drop
 
 
