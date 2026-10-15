@@ -52,7 +52,7 @@ Make Emilia-Romagna river-level measurements accessible to AI assistants through
 
 Includes station lookup, river-level queries, and MCP and HTTP interfaces.
 
-<sub>NODE.JS · PYTHON · MCP · HTTP APIs</sub>
+<sub>PYTHON · MCP · HTTP APIs</sub>
 
 </td>
 </tr>
@@ -67,7 +67,7 @@ Give an MCP client a simple way to inspect a Mac's CPU load and available memory
 
 A focused Node.js server using the stdio transport and operating-system metrics.
 
-<sub>NODE.JS · MCP · macOS</sub>
+<sub>JAVASCRIPT · MCP · macOS</sub>
 
 </td>
 <td width="50%" valign="top">
