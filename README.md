@@ -39,7 +39,7 @@ Turn a Mac's built-in camera into an RTSP stream for local and network clients.
 
 Python orchestrates FFmpeg and MediaMTX, with configurable resolution, frame rate, and transport.
 
-<sub>PYTHON · FFMPEG · MEDIAMTX · macOS</sub>
+<sub>Python · FFmpeg · MediaMTX · macOS</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -52,7 +52,7 @@ Make Emilia-Romagna river-level measurements accessible to AI assistants through
 
 Includes station lookup, river-level queries, and MCP and HTTP interfaces.
 
-<sub>PYTHON · MCP · HTTP APIs</sub>
+<sub>Python · MCP · HTTP APIs</sub>
 
 </td>
 </tr>
@@ -67,7 +67,7 @@ Give an MCP client a simple way to inspect a Mac's CPU load and available memory
 
 A focused Node.js server using the stdio transport and operating-system metrics.
 
-<sub>JAVASCRIPT · MCP · macOS</sub>
+<sub>JavaScript · MCP · macOS</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +80,7 @@ An AI-assisted agent that proposes profile README updates from repository eviden
 
 Scheduled runs, validation, dry-run previews, and draft PRs keep the final decision with the author. Being prepared for my Mac Mini homelab.
 
-<sub>PYTHON · OPENAI API · GITHUB API · DOCKER</sub>
+<sub>Python · OpenAI API · GitHub API · Docker</sub>
 
 </td>
 </tr>
@@ -130,3 +130,5 @@ I'm open to collaborations on **web apps, integrations, and developer tooling**.
 
 
 Languages used across my projects: C++, CSS, HTML, JavaScript, PHP, Python, Shell, Swift, TypeScript.
+
+_Last updated: 15 October 2026 at 12:57 (Europe/Rome)_
