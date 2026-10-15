@@ -127,3 +127,6 @@ I'm open to collaborations on **web apps, integrations, and developer tooling**.
 [Twitch](https://www.twitch.tv/mdalprato) · [Buy me a coffee](https://buymeacoffee.com/marcodalprato)
 
 <sub>Ship code. Squash bugs. Make the next thing a little better.</sub>
+
+
+Languages used across my projects: C++, CSS, HTML, JavaScript, PHP, Python, Shell, Swift, TypeScript.
